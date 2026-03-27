@@ -9,4 +9,7 @@ Relational database schema for a school management system including:
 
 Technologies:
 - SQL
-- Database Modeling
+- Database Modeling  
+
+
+
